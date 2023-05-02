@@ -62,6 +62,7 @@ public class Ejercicio6_guia8_extralarge {
                     break;
                 case 6:
                     System.out.println("Ud. esta saliendo del programa");
+                    break;
                 default:
                     System.out.println("Opción incorrecta, intente nuevamente");
             }
