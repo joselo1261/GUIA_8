@@ -29,7 +29,7 @@ public class AutobusServicio {
         int cantidadParadas = sc.nextInt();
         
         autobus = new Autobus(identificacion, capacidadMaxima, capacidadActual, cantidadParadas);
-    }
+    }   
     
     // Método inicioRecorrido(int cantidad), recibirá por parámetro la cantidad de personas que suben al autobús en el inicio del recorrido. 
     // La misma no debe superar la capacidad máxima del autobús.
